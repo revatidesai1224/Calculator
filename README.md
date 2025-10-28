@@ -2,7 +2,7 @@
 
 A simple and responsive Calculator Web App built using HTML, CSS, and JavaScript that performs basic arithmetic operations with a clean user interface.
 
-Features
+⚙️ Features
 
   Handles real-time calculations with smooth display updates
 
@@ -12,7 +12,7 @@ Features
 
   Fast and lightweight — no external libraries used
 
-Technologies Used
+💻 Technologies Used
 
   HTML5 – for the structure
 
@@ -20,5 +20,6 @@ Technologies Used
 
   JavaScript (ES6) – for functionality and event handling
 
-How to Use
+🕹️ How to Use
   Clone the repository git clone https://github.com/your-username/Calculator.git
+
